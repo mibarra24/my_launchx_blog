@@ -9,13 +9,16 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy licenciado en mercadotecnia y tengo una maestrìa en administraciòn y desarrollo de negocios.
+Empece con la programaciòn porque quiero un cambio de carrera que me abra las puertas a una 
+mejor calidad de vida.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me gustan mucho los videojuegos y soy muy fan de Zelda, Pokemon, Fortnite y los juegos de deporte como FIFA y Madden.
+
+Soy fanático del cine, mis directores favoritos son Steven Spielberg, Wes Anderson, Paul Thomas Anderson y Denis Villeneuve. No tengo película favorita, pero si tuviera que elegir estaría entre Schindler's List y la versión de Ben Hur de 1959.
+
+Soy muy fan de Spider-Man y Star Wars. Mi Spider-Man favorito en el cine es Andrew Garfield y mi pelicula favorita de
+Star Wars es The Last Jedi.
+
+Me gusta coleccionar funko pops y figuras de Star Wars.
 

@@ -1,5 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Lo aprendido hasta ahora"
 date: 2022-03-01
 description: 'Mi travesìa por LaunchX e Innovacciòn'
 ---

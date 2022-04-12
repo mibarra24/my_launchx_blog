@@ -9,10 +9,14 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas son:
 
-- Aprender a usar Git y Github de forma correcta y eficiente
-- Perfeccionar el uso que le doy a mi editor de texto
-- Profundizar en mis conocimientos de frontend
-- Aprender backend
-- Aprender y compartir nuevos conocimientos con la comunidad Launch X
+Aprender a usar Git y Github de forma correcta y eficiente
+
+Perfeccionar el uso que le doy a mi editor de texto
+
+Profundizar en mis conocimientos de frontend
+
+Aprender backend
+
+Aprender y compartir nuevos conocimientos con la comunidad Launch X
 
 🚀

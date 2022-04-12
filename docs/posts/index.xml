@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mibarra24.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Semana 1</title>
+      <link>https://mibarra24.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mibarra24.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>En esta primer semana tuve mi primer contacto con node, teniendo algunas dificultades en el proceso de correcta instalacion. Lo mas importante que aprendi durante la semana fue:
+ Elegir Vstudio Code para ser mi editor de texto primario. Tambien descargue otras opciones como Atom.:pencil2: Familiarizarme con la terminal tanto del sistema como la interna dentro de Visual Studio.:raised_hands: Aprender a imprimir archivos js utilizando Node Empezar a razonar còdigo para entender su funiconamiento:books:  Ademas adquiri algunos libros para perfeccionar mis conocimientos de frontend, con el fin de cerrar esos conocimientos para continuar 100% con Backend.</description>
+    </item>
+    
+    <item>
       <title>Lo aprendido hasta ahora</title>
       <link>https://mibarra24.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>

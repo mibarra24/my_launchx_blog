@@ -39,7 +39,7 @@ gestión de proyectos y equipos, así como oportunidades para la creación de re
 ![git-github-1414373606](https://user-images.githubusercontent.com/79391139/165106549-19608cd7-57ea-4d18-90da-cd1efee34e3d.jpg)
 
 | Git           | Github |
-|: ------------- :|:-------------:| 
+| ------------- |:-------------:| 
 |Desarrollado inicialmente en 2005|Está diseñada como un sitio de alojamiento de repositorio git|
 |Se intala y se mantiene de manera local (no en la nube)|Está exclusivamente basado en la nube|
 |Una cosa que realmente distingue a git es su modelo de ramificación|Puedes compartir tu codigo con otros, permitiendo revisiones y ediciones|

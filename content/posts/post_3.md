@@ -1,4 +1,4 @@
-# MI EXPERIENCIA CON LAUNCH X 🥇
+# MI EXPERIENCIA CON LA PROGRAMACIÓN Y CÓMO LAUNCH X LA CAMBIÓ  🥇
 
 La primera vez que supe algo sobre la programación fue cuando tenia quince años, cuando veía a mis compañeros de 
 preparatoria aprender y pulir sus habilidades en el coding dentro de algunas páginas de internet que ofrecían esta 
@@ -18,11 +18,13 @@ una oportunidad para poder adentrarme a un mundo donde existen muchísimas oport
 calidad de vida que mi profesión de universidad (mercadotecnia) difícilmente me daría. 
 
 A pesar de que comencé a aprender lenguajes como Python y Kotlin, no fue hasta que inicié esta aventura dentro de 
-Launch x cuando realmente me decidí a que quería hacer de esto mi futuro y decidí dedicarme en serio a aprender y 
+Launch x cuando realmente me decidí a que quería hacer de esto mi futuro y dedicarme en serio a aprender y 
 perfeccionar mis nuevos conocimientos. He aprendido a investigar por mi cuenta, utilizar herramientas nuevas y, 
 sobre todo, a poder encontrar nuevas formas de pensar para solucionar problemas. 
 
 ----------------------------------------------------------------------
+# GIT VS GITHUB 
+
 Durante este proceso iniciado ya hace poco más de ocho semanas aprendí a usar la plataforma de Github y 
 posteriormente, ya en el proceso de backend, la palabra git sonó durante varias clases. Ambas cosas me 
 parecieron familiares y por cierta lógica en mi cerebro quise verlas como sinónimos. Sin embargo, son 
@@ -32,3 +34,20 @@ Mientras que git es un software VCS local que permite a los desarrolladores guar
 a lo largo del tiempo y que es mejor para uso individual. GitHub es una plataforma basada en la web que incorpora 
 las funciones de control de versiones de git para que puedan usarse en colaboración. También incluye funciones de 
 gestión de proyectos y equipos, así como oportunidades para la creación de redes y la codificación social.
+
+
+![git-github-1414373606](https://user-images.githubusercontent.com/79391139/165106549-19608cd7-57ea-4d18-90da-cd1efee34e3d.jpg)
+
+| Git           | Github |
+|: ------------- :|:-------------:| 
+|Desarrollado inicialmente en 2005|Está diseñada como un sitio de alojamiento de repositorio git|
+|Se intala y se mantiene de manera local (no en la nube)|Está exclusivamente basado en la nube|
+|Una cosa que realmente distingue a git es su modelo de ramificación|Puedes compartir tu codigo con otros, permitiendo revisiones y ediciones|
+|Es Open Source|Incluye un nivel gratuito y un nivel de pago por uso|
+
+Seguiré informando sobre mi experiencia y desarrollando temas en futuros post, saludos y gracias por leerme!
+
+
+
+
+

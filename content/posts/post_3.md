@@ -1,3 +1,9 @@
+---
+title: "MI EXPERIENCIA CON LA PROGRAMACIÓN Y CÓMO LAUNCH X LA CAMBIÓ"
+date: 2022-25-04
+description: 'Pequeña historia sobre mi experiencia'
+---
+
 # MI EXPERIENCIA CON LA PROGRAMACIÓN Y CÓMO LAUNCH X LA CAMBIÓ  🥇
 
 La primera vez que supe algo sobre la programación fue cuando tenia quince años, cuando veía a mis compañeros de 
